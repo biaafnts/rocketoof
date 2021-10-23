@@ -1,4 +1,4 @@
-## Opaa eu sou a Bianca Fontes, estudante de Ciência da Computação!
+## Hi, I'm Bianca Fontes, Computer Science student!
 <div align="center">
   <a href="https://github.com/rocketoof">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=rocketoof&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
