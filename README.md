@@ -6,7 +6,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-Bia" height="150" style="border-radius:80px;" src="https://media.discordapp.net/attachments/899004272606330892/900568332967768114/Gifzin.gif">
+  <img align="right" alt="Bia" height="150" style="border-radius:80px;" src="https://media.discordapp.net/attachments/899004272606330892/900568332967768114/Gifzin.gif">
 </div>
   
 ##
